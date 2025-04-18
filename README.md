@@ -17,6 +17,7 @@ chmod +x install.sh
 ./install.sh
 nano config.php
 ```
+Next change config.php - you need to define ```BASE_URL``` to correct work
 >**notes**: 
 be sure that ./image-cloud/ is visible from web
 This is 2 databases - dev.db, prod.db
