@@ -1,0 +1,8 @@
+data/*
+cache
+uploads
+/config.php
+/data/dev.db
+/data/prod.db
+data/*.db
+config.php
