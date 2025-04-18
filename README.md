@@ -107,6 +107,8 @@ You can change /storage/noimage.jpg by you wish
 
 ## Management Widget
 
+<img src='https://cloud.selfclick.ru/image/original/screenshot/1'></img>
+
 ### Installation && use
 > Widget receive apptoken from backend for work. Be sure that your widget and widget url is closed from outside
 
